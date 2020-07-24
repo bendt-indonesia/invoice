@@ -1,6 +1,6 @@
 <?php
 
-namespace Bendt\Autocms\Seeder;
+namespace Bendt\Invoice\Seeder;
 
 use Bendt\Invoice\Models\BankPayment as BankPayment;
 

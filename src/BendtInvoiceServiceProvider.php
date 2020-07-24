@@ -41,7 +41,7 @@ class BendtInvoiceServiceProvider extends ServiceProvider
         $this->loadMigrationsFrom(__DIR__ . '/Database/migrations');
 
         //Load routes
-        require __DIR__ . '/routes/invoice.php';
+        //require __DIR__ . '/routes/invoice.php';
         require __DIR__ . '/helper.php';
     }
 
