@@ -15,7 +15,7 @@
     "php": ">=7.1.3",
     "askedio/laravel-soft-cascade": "6.0",
     "barryvdh/laravel-dompdf": "^0.8.5",
-    "bendt/option": "dev-master",
+    "bendt/option": "6.0",
     "laravel/framework" : "^6.0",
     "intervention/image": "^2.4"
   },
